@@ -3,6 +3,11 @@ My dog stepped on a bee
 This story lowkey sucks
 End of story.
 
-
+Why can I see the head address
 
 One of the stories of all time
+<<<<<<< HEAD
+=======
+
+Bro please the big leagues was me
+>>>>>>> 901c2316ce3221fd212525f8fb13b331cf5d597c
